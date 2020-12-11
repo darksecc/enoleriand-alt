@@ -20,8 +20,10 @@
 ![C](https://img.shields.io/badge/-A8B9CC?style=flat&logo=c&logoColor=white&link=https://github.com/enoleriand-alt)
 ![Haskell](https://img.shields.io/badge/-Haskell-purple?style=flat&logo=haskell&logoColor=white&link=https://github.com/enoleriand-alt/Haskell---NLP)
 ![R](https://img.shields.io/badge/-R-blue?style=flat&logo=R&logoColor=white&link=https://github.com/enoleriand-alt/Haskell---NLP)
+![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python&link=https://github.com/enoleriand-alt/Python-AWS-TradingAI)
+![Java](https://img.shields.io/badge/Java-orange?style=flat&logo=java&logoColor=white&link=https://github.com/enoleriand-alt/OOP-JAVA-and-Android-App-Developer) 
 
-  **Python**:
+ **Python**:
 
   ![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python&link=https://github.com/enoleriand-alt/Python-AWS-TradingAI)
   ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=PyTorch&logoColor=white&link=https://github.com/enoleriand-alt/Python-AWS-TradingAI)

@@ -30,7 +30,8 @@
   ![Scipy](https://img.shields.io/badge/-Scipy-blue?style=flat&logo=Scipy&logoColor=white&link=https://github.com/enoleriand-alt/Python-AWS-TradingAI)
   ![Keras](https://img.shields.io/badge/-Keras-D00000?style=flat&logo=Keras&link=https://github.com/enoleriand-alt/Python-AWS-TradingAI)
   ![Tensorflow](https://img.shields.io/badge/-Tensorflow-gray?style=flat&logo=tensorflow&link=https://github.com/enoleriand-alt/Python-AWS-TradingAI)
-  **Java**: 
+ 
+ **Java**: 
 
   ![Java](https://img.shields.io/badge/Java-orange?style=flat&logo=java&logoColor=white&link=https://github.com/enoleriand-alt/OOP-JAVA-and-Android-App-Developer)
   ![Spring](https://img.shields.io/badge/-Spring-lightgray?style=flat&logo=spring&link=https://github.com/enoleriand-alt/Java-Web-Developer)
@@ -69,13 +70,15 @@
 ![AzureDevops](https://img.shields.io/badge/-0175C2?style=flat&logo=azureDevops&logoColor=white&link=https://github.com/enoleriand-alt "AzureDevops")
 ![LeetCode](https://img.shields.io/badge/-02569B?style=flat&logo=leetCode&logoColor=white&link=https://github.com/enoleriand-alt "LeetCode")
 
-**SDLC**
+**SDLC** :
+
 ![Agile](https://img.shields.io/badge/Agile-blue?style=flat&logo=Agile&logoColor=white&link=https://github.com/enoleriand-alt "Agile")
 **Software Engineering:**
 ![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat&logo=jira&logoColor=white&link=https://github.com/Quananhle)
 ![Travis](https://img.shields.io/badge/-Travis-red?style=flat&logo=travis&logoColor=white&link=https://github.com/enoleriand-alt)
 
-**Version Control:**
+**Version Control:** :
+
 ![Bitbucket](https://img.shields.io/badge/-Bitbucket-blue?style=flat&logo=bitbucket&link=https://github.com/enoleriand-alt)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&link=https://github.com/enoleriand-alt)] 
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&link=https://github.com/enoleriand-alt)

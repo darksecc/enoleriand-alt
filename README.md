@@ -88,8 +88,6 @@
 ![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&link=https://github.com/enoleriand-alt)] 
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&link=https://github.com/enoleriand-alt)
 
-<sup>*click on some badges may redirect you to the corresponding repositories</sup>
-
  ---
 ### 📫 Get In Touch
 <!--[![LinkedIn](https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg "quan-le-5932b8160")](https://www.linkedin.com/in/quan-le-5932b8160/)-->

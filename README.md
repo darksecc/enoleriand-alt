@@ -17,7 +17,7 @@
 
 ### Languages<sup>*</sup>
 
-[![C](https://img.shields.io/badge/-A8B9CC?style=flat&logo=c&logoColor=white&link=https://github.com/enoleriand-alt)]]
+[![C](https://img.shields.io/badge/-A8B9CC?style=flat&logo=c&logoColor=white&link=https://github.com/enoleriand-alt)
 [![Haskell](https://img.shields.io/badge/-Haskell-purple?style=flat&logo=haskell&logoColor=white&link=https://github.com/enoleriand-alt/Haskell---NLP)](https://github.com/enoleriand-alt/Haskell---NLP)
 [![R](https://img.shields.io/badge/-R-blue?style=flat&logo=R&logoColor=white&link=https://github.com/enoleriand-alt/Haskell---NLP)]
 

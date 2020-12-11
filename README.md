@@ -22,6 +22,7 @@
 ![R](https://img.shields.io/badge/-R-blue?style=flat&logo=R&logoColor=white&link=https://github.com/enoleriand-alt/Haskell---NLP)
 
   **Python**:
+
   ![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python&link=https://github.com/enoleriand-alt/Python-AWS-TradingAI)
   ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=PyTorch&logoColor=white&link=https://github.com/enoleriand-alt/Python-AWS-TradingAI)
   ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=Pandas&link=https://github.com/enoleriand-alt/Python-AWS-TradingAI)
@@ -30,6 +31,7 @@
   ![Keras](https://img.shields.io/badge/-Keras-D00000?style=flat&logo=Keras&link=https://github.com/enoleriand-alt/Python-AWS-TradingAI)
   ![Tensorflow](https://img.shields.io/badge/-Tensorflow-gray?style=flat&logo=tensorflow&link=https://github.com/enoleriand-alt/Python-AWS-TradingAI)
   **Java**: 
+
   ![Java](https://img.shields.io/badge/Java-orange?style=flat&logo=java&logoColor=white&link=https://github.com/enoleriand-alt/OOP-JAVA-and-Android-App-Developer)
   ![Spring](https://img.shields.io/badge/-Spring-lightgray?style=flat&logo=spring&link=https://github.com/enoleriand-alt/Java-Web-Developer)
   ![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat&logo=apache-maven&link=hhttps://github.com/enoleriand-alt/Java-Web-Developer)
@@ -39,12 +41,14 @@
   ![JSON](https://img.shields.io/badge/-JSON-lightgray?style=flat&logo=json&link=https://github.com/enoleriand-alt/Java-Web-Developer)
 
   **JavaScript**: 
+
   ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&link=https://github.com/enoleriand-alt/Front-End-Dev)
   ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white&link=https://github.com/enoleriand-alt/Front-End-Dev)
   ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&link=https://github.com/enoleriand-alt/Front-End-Dev)
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-purple?style=flat&logo=bootstrap&link=https://github.com/enoleriand-alt/Front-End-Dev)
 
   **SQL:**
+
   ![SQL](https://img.shields.io/badge/-SQL-orange?style=flat&logo=sql&link=https://github.com/enoleriand-alt)
   ![MySQL](https://img.shields.io/badge/-MySQL-lightgray?style=flat&logo=mysql&link=https://github.com/enoleriand-alt)
   ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-blue?style=flat&logo=postgresql&link=https://github.com/enoleriand-alt)

@@ -18,7 +18,7 @@
 ### Languages<sup>*</sup>
 
 ![C](https://img.shields.io/badge/-A8B9CC?style=flat&logo=c&logoColor=white&link=https://github.com/enoleriand-alt)
-![Haskell](https://img.shields.io/badge/-Haskell-purple?style=flat&logo=haskell&logoColor=white&link=https://github.com/enoleriand-alt/Haskell---NLP)](https://github.com/enoleriand-alt/Haskell---NLP)
+![Haskell](https://img.shields.io/badge/-Haskell-purple?style=flat&logo=haskell&logoColor=white&link=https://github.com/enoleriand-alt/Haskell---NLP)
 ![R](https://img.shields.io/badge/-R-blue?style=flat&logo=R&logoColor=white&link=https://github.com/enoleriand-alt/Haskell---NLP)
 
   **Python**:
@@ -66,8 +66,7 @@
 ![LeetCode](https://img.shields.io/badge/-02569B?style=flat&logo=leetCode&logoColor=white&link=https://github.com/enoleriand-alt "LeetCode")
 
 **SDLC**
-![Agile](https://img.shields.io/badge/Agile-blue?style=flat&logo=Agile&logoColor=white&link=https://github.com/enoleriand-alt "Agile")](https://github.com/enoleriand-alt) [![Scrum](https://img.shields.io/badge/Scrum-green?style=flat&logo=Scrum&logoColor=white&link=https://github.com/enoleriand-alt "Scrum")](https://github.com/enoleriand-alt) [![Kanban](https://img.shields.io/badge/Kanban-red?style=flat&logo=Kanban&logoColor=white&link=https://github.com/enoleriand-alt "Kanban")](https://github.com/enoleriand-alt)
-
+![Agile](https://img.shields.io/badge/Agile-blue?style=flat&logo=Agile&logoColor=white&link=https://github.com/enoleriand-alt "Agile")
 **Software Engineering:**
 ![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat&logo=jira&logoColor=white&link=https://github.com/Quananhle)
 ![Travis](https://img.shields.io/badge/-Travis-red?style=flat&logo=travis&logoColor=white&link=https://github.com/enoleriand-alt)

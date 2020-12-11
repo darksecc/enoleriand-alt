@@ -59,6 +59,7 @@
 ### Tools
 
 **Software Development:**
+
 [![Eclipse IDE](https://img.shields.io/badge/-darkblue?style=flat&logo=Eclipse-IDE&logoColor=white&link=https://github.com/enoleriand-alt "Eclipse IDE")]
 [![NetBeans IDE](https://img.shields.io/badge/-1B6AC6?style=flat&logo=Apache-NetBeans-IDE&logoColor=white&link=https://github.com/enoleriand-alt "NetBeans IDE")]
 [![IntelliJ IDEA](https://img.shields.io/badge/-red?style=flat&logo=IntelliJ-IDEA&logoColor=white&link=https://github.com/enoleriand-alt "IntelliJ IDEA")]
@@ -75,7 +76,9 @@
 **SDLC** :
 
 ![Agile](https://img.shields.io/badge/Agile-blue?style=flat&logo=Agile&logoColor=white&link=https://github.com/enoleriand-alt "Agile")
+
 **Software Engineering:**
+
 ![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat&logo=jira&logoColor=white&link=https://github.com/Quananhle)
 ![Travis](https://img.shields.io/badge/-Travis-red?style=flat&logo=travis&logoColor=white&link=https://github.com/enoleriand-alt)
 

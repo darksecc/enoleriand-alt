@@ -14,9 +14,6 @@
 >> "Because it is below C level."
 
 ---
-### 💻:keyboard: Languages and Tools 
-
-### Languages<sup>*</sup>
 
 ![C](https://img.shields.io/badge/-A8B9CC?style=flat&logo=c&logoColor=white&link=https://github.com/enoleriand-alt)
 ![Haskell](https://img.shields.io/badge/-Haskell-purple?style=flat&logo=haskell&logoColor=white&link=https://github.com/enoleriand-alt/Haskell---NLP)
